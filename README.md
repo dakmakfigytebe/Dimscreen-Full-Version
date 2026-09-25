@@ -231,4 +231,4 @@ This repository serves as the official landing page for DimScreen. The software 
 **Get the most recent version of DimScreen today!**
 
 ---
-**Last updated:** 2026-09-25 14:16:40 UTC
+**Last updated:** 2026-09-25 19:00:47 UTC
